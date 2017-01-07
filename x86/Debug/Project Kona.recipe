@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>C:\androiddevdir\Project Kona\libs\x86\libmain.so;C:\androiddevdir\Project Kona\libs\x86\libopenal.so;C:\androiddevdir\Project Kona\libs\x86\libSDL2.so;C:\androiddevdir\Project Kona\libs\x86\libSDL2_image.so;C:\androiddevdir\Project Kona\libs\x86\libSDL2_ttf.so;C:\androiddevdir\Project Kona\libs\x86\libzip.so;</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>C:\androiddevdir\Project Kona\\obj\local\x86</OObjPaths>
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture />
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>
